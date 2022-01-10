@@ -10,7 +10,7 @@
   "dependencies": {
     "file-saver": "^2.0.5",
     "json-loader": "^0.5.7",
-    "react-export-excel": "^0.5.3",
+    "react-export-excel": "git+https://github.com/m-farahmand/react-export-excel",
     "xlsx": "^0.17.4"
   },
   "author": {
