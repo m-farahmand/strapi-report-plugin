@@ -1,0 +1,29 @@
+{
+  "name": "report",
+  "version": "0.0.0",
+  "description": "This is the description of the plugin.",
+  "strapi": {
+    "name": "report",
+    "description": "Description of report plugin",
+    "kind": "plugin"
+  },
+  "dependencies": {
+    "file-saver": "^2.0.5",
+    "json-loader": "^0.5.7",
+    "react-export-excel": "^0.5.3",
+    "xlsx": "^0.17.4"
+  },
+  "author": {
+    "name": "A Strapi developer"
+  },
+  "maintainers": [
+    {
+      "name": "A Strapi developer"
+    }
+  ],
+  "engines": {
+    "node": ">=12.x. <=16.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
